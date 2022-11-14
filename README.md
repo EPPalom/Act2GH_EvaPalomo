@@ -16,6 +16,6 @@ Podemos encontrar 3 versiones: V1.0, 2.0 y V3.0 :dizzy:
 
 
 
-[Imagen GitHub](https://myoctocat.com/assets/images/base-octocat.svg](https://marketing4ecommerce.net/wp-content/uploads/2018/06/GitHub-logo-2-imagen.jpg)
+![Imagen GitHub](https://myoctocat.com/assets/images/base-octocat.svg](https://marketing4ecommerce.net/wp-content/uploads/2018/06/GitHub-logo-2-imagen.jpg)
 
 Puedes encontrar más información sobre como escribir el README.md en GitHub en el siguiente [enlace](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github)
