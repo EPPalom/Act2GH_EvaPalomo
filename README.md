@@ -4,11 +4,11 @@
 Este es un proyecto para la asignatura de **Entornos de Desarrollo** en el que ponemos en práctica nuestros conocimientos hasta el momento
 
 Se realizará con un archivo.java que contendrá lo siguiente:
-```
+
 :slightly_smiling_face: Contiene un array de 20 números aleatorios del 1 al 10 guardado en ArrayNumeros.java
 :nerd_face: Actualización: lo muestra por pantalla.
 :sunglasses: Actualización: modifica el array de 20 a 30 números.
-```
+
 > El proyecto consta de la rama main, rama1 y rama2 
 
 Podemos encontrar 3 versiones: V1.0, 2.0 y V3.0 :dizzy:
