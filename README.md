@@ -1,10 +1,10 @@
 # Act2GH_EvaPalomo
 ## Tarea 3 - Git y GitHub 
-
+```
 Este es un proyecto para la asignatura de **Entornos de Desarrollo** en el que ponemos en práctica nuestros conocimientos hasta el momento
 ```
 Se realizará con un archivo.java que contendrá lo siguiente:
-```
+
 1. :slightly_smiling_face: Contiene un array de 20 números aleatorios del 1 al 10 guardado en ArrayNumeros.java
 2. :nerd_face: Actualización: lo muestra por pantalla.
 3. :sunglasses: Actualización: modifica el array de 20 a 30 números.
